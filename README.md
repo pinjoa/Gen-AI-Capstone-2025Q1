@@ -21,6 +21,8 @@ _**NOTE**: Almost all the content in this document was created using generative 
 
 [![Watch the video](./images/last-image-video.png)](https://www.youtube.com/watch?v=t3iq1ZyH44A)
 
+![Deep dive](./audio/Deep-dive-into-the-layers-of-Braga.mp3)
+
 **Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_[1](#ref1)**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_[1](#ref1)[2](#ref2). Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements[1](#ref1).
 
 Later, Braga also became significant for its **Baroque heritage**, as indicated by the "A baroque itinerary of braga"[3](#ref3). This itinerary suggests that the city experienced a period of substantial architectural development during the Baroque era, leaving a lasting impact on its urban landscape[3](#ref3). Therefore, Braga can be introduced as a city that showcases a fascinating blend of its ancient Roman roots and its prominent Baroque architectural legacy, both of which contribute to its historical and cultural identity[1](#ref1)[2](#ref2)[3](#ref3).
