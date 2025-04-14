@@ -8,7 +8,7 @@ Gen AI Intensive Course Capstone 2025Q1
 
 **\*NOTE**: Almost all the content in this project was created using generative AI resources available from Google. The overall project results from my curation of all the content produced using the source documentation provided and identified at the bottom of this page.\*
 
-**Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_^1**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_. Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements.
+**Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_[^1]**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_. Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements.
 
 Later, Braga also became significant for its **Baroque heritage**, as indicated by the "A baroque itinerary of braga". This itinerary suggests that the city experienced a period of substantial architectural development during the Baroque era, leaving a lasting impact on its urban landscape. Therefore, Braga can be introduced as a city that showcases a fascinating blend of its ancient Roman roots and its prominent Baroque architectural legacy, both of which contribute to its historical and cultural identity.
 
@@ -54,9 +54,9 @@ In conclusion, the historical sites of Braga, as documented in these sources, il
 
 List of source documentation used to produce this text and project:
 
-1. [A Baroque itinerary of Braga](./used-docs/Roteiro_Barroco_Ingles_PR.pdf)
-2. [Map of Braga: Bracara Augusta roadmap](./used-docs/romano_fr_en.pdf)
-3. [Family Leisure Activities](./used-docs/Family_Leisure_Activities.pdf)
+[1]. [A Baroque itinerary of Braga](./used-docs/Roteiro_Barroco_Ingles_PR.pdf)
+[2]. [Map of Braga: Bracara Augusta roadmap](./used-docs/romano_fr_en.pdf)
+[3]. [Family Leisure Activities](./used-docs/Family_Leisure_Activities.pdf)
 
 All these documents can be found on the [Braga City Council website](https://www.cm-braga.pt/en/1401/conhecer/historia-e-patrimonio/mapas-e-roteiros).
 
