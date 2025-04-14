@@ -54,9 +54,9 @@ In conclusion, the historical sites of Braga, as documented in these sources, il
 
 List of source documentation used to produce this text and project:
 
-[1]. [A Baroque itinerary of Braga](./used-docs/Roteiro_Barroco_Ingles_PR.pdf)
-[2]. [Map of Braga: Bracara Augusta roadmap](./used-docs/romano_fr_en.pdf)
-[3]. [Family Leisure Activities](./used-docs/Family_Leisure_Activities.pdf)
+[^1]. [A Baroque itinerary of Braga](./used-docs/Roteiro_Barroco_Ingles_PR.pdf)  
+[^2]. [Map of Braga: Bracara Augusta roadmap](./used-docs/romano_fr_en.pdf)  
+[^3]. [Family Leisure Activities](./used-docs/Family_Leisure_Activities.pdf)
 
 All these documents can be found on the [Braga City Council website](https://www.cm-braga.pt/en/1401/conhecer/historia-e-patrimonio/mapas-e-roteiros).
 
