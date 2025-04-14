@@ -2,9 +2,20 @@
 
 Capstone project to apply & show what I've learned throughout the 5-Day Gen AI Intensive Course with Google!
 
+Hi, I'm João Pinto, a master's student in Data Science and Business Analysis. I'm keen to explore and apply various tools and technologies, with the aim of integrating systems and deepening my knowledge. I'm always looking for opportunities that will allow me to develop my skills and enhance my ability to learn.
+
 ## The project
 
-## Braga, a city with 2000 years of history
+With this project using the context of the theme presented in my GitHub post I intend to demonstrate several use cases in a Kaggle Notebook the following advanced Gen AI capabilities:
+
+- Embeddings;
+- Vector search/vector store;
+- Retrieval Augmented Generation (RAG);
+- Structured output/JSON mode;
+- Function Calling;
+- Grounding.
+
+## Braga, a Portuguese city with 2000 years of history
 
 _**NOTE**: Almost all the content in this document was created using generative AI resources available from Google. The overall project results from my curation of all the content produced using 3 documents provided with this project[1](#ref1)[2](#ref2)[3](#ref3), identified and referenced at the bottom of this page._
 
