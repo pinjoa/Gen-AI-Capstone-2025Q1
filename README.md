@@ -6,7 +6,7 @@ Gen AI Intensive Course Capstone 2025Q1
 
 ## Braga, a city with 2000 years of history
 
-_**NOTE**: Almost all the content in this project was created using generative AI resources available from Google. The overall project results from my curation of all the content produced using the source documentation provided and identified at the bottom of this page._
+_**NOTE**: Almost all the content in this project was created using generative AI resources available from Google. The overall project results from my curation of all the content produced using the source[1](#ref1)[2](#ref2)[3](#ref3) documentation provided and identified at the bottom of this page._
 
 **Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_[1](#ref1)**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_[1](#ref1)[2](#ref2). Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements[1](#ref1).
 
