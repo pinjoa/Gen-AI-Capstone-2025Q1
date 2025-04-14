@@ -21,7 +21,7 @@ _**NOTE**: Almost all the content in this document was created using generative 
 
 [![Watch the video](./images/last-image-video.png)](https://www.youtube.com/watch?v=t3iq1ZyH44A)
 
-![Deep dive](./audio/Deep-dive-into-the-layers-of-Braga.mp3)
+![https://github.com/pinjoa/Gen-AI-Capstone-2025Q1/blob/main/audio/Deep-dive-into-the-layers-of-Braga.mp3](https://github.com/pinjoa/Gen-AI-Capstone-2025Q1/blob/main/audio/Deep-dive-into-the-layers-of-Braga.mp3)
 
 **Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_[1](#ref1)**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_[1](#ref1)[2](#ref2). Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements[1](#ref1).
 
