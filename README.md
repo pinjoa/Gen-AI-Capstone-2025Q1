@@ -13,7 +13,7 @@ Braga, one of Portugal’s oldest cities, is a treasure trove of history, cultur
 ### **Explore the Resources**
 
 - 📄 **[Full Article on GitHub](https://github.com/pinjoa/Gen-AI-Capstone-2025Q1)**
-- 🎧 **[Deep-Dive Podcast](https://pinjoa.github.io/audio/Deep-dive-into-the-layers-of-Braga.mp3)** _(Generated using NotebookLM and curated sources)_
+- 🎧 **[Deep-Dive Podcast](https://pinjoa.github.io/commons/Deep-dive-into-the-layers-of-Braga.mp3)** _(Generated using NotebookLM and curated sources)_
 
 ### **Technical Showcase**
 
