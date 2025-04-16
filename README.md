@@ -1,19 +1,29 @@
-# Gen-AI-Capstone-2025Q1
+# **João Pinto's Gen AI Intensive Course Capstone Project (2025Q1)**
 
-Capstone project to apply & show what I've learned throughout the 5-Day Gen AI Intensive Course with Google!
+## **Bridging AI and History: Exploring Braga’s 2000-Year Legacy with Advanced Generative AI Techniques**
 
-Hi, I'm João Pinto, a master's student in Data Science and Business Analysis. I'm keen to explore and apply various tools and technologies, with the aim of integrating systems and deepening my knowledge. I'm always looking for opportunities that will allow me to develop my skills and enhance my ability to learn.
+## **About Me**
 
-## The project
+Hi, I’m **João Pinto**, a lifelong learner passionate about integrating cutting-edge technologies to solve real-world challenges. Through Google’s _5-Day Gen AI Intensive Course_, I’ve deepened my expertise in generative AI—and this capstone project showcases my hands-on application of these skills.
 
-With this project using the context of the theme presented in my GitHub post I intend to demonstrate several use cases in a Kaggle Notebook the following advanced Gen AI capabilities:
+## **Project Theme: Braga, Portugal—A Living Chronicle**
 
-- Embeddings;
-- Vector search/vector store;
-- Retrieval Augmented Generation (RAG);
-- Structured output/JSON mode;
-- Function Calling;
-- Grounding.
+Braga, one of Portugal’s oldest cities, is a treasure trove of history, culture, and architectural marvels. With **2000 years of layered heritage**, it serves as the perfect canvas to demonstrate how generative AI can transform how we interact with historical narratives.
+
+### **Explore the Resources**
+
+- 📄 **[Full Documentation on GitHub](https://github.com/pinjoa/Gen-AI-Capstone-2025Q1)**
+- 🎧 **[Deep-Dive Podcast](https://pinjoa.github.io/audio/Deep-dive-into-the-layers-of-Braga.mp3)** _(Generated using NotebookLM and curated sources)_
+
+### **Technical Showcase**
+
+In this **[Kaggle Notebook](https://www.kaggle.com/code/pinjoa/genaicapstone2025q1-pinjoa)**, I implement the following advanced Gen AI workflows:
+
+- **Embeddings & Vector Search**: Structuring Braga’s historical data for semantic retrieval.
+- **Retrieval-Augmented Generation (RAG)**: Delivering context-aware insights about the city.
+- **Function Calling & Grounding**: Ensuring accuracy and reliability in AI-generated outputs.
+
+_Goal_: Highlight how AI can augment our understanding of cultural heritage while demonstrating scalable technical proficiency.
 
 ## Braga, a Portuguese city with 2000 years of history
 
