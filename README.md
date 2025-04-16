@@ -85,6 +85,12 @@ List of source documentation used to produce this text and project:
 
 All these documents can be found on the [Braga City Council website](https://www.cm-braga.pt/en/1401/conhecer/historia-e-patrimonio/mapas-e-roteiros).
 
+This project used curated insights from Gen AI tools—a fun and challenging experience!
+
+Thanks for checking out my work!
+
+**João Pinto**
+
 <pre>  
              ,-.  
     ,     ,-.   ,-.  
