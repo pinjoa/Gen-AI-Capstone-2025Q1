@@ -29,9 +29,9 @@ _Goal_: Highlight how AI can augment our understanding of cultural heritage whil
 
 _**NOTE**: Almost all the content in this document was created using generative AI resources available from Google. The overall project results from my curation of all the content produced using 3 documents provided with this project[1](#ref1)[2](#ref2)[3](#ref3), identified and referenced at the bottom of this page._
 
-[![Watch the video](./images/last-image-video.png)](https://www.youtube.com/watch?v=t3iq1ZyH44A)
+[![Watch the video](https://pinjoa.github.io/commons/last-image-video.png)](https://www.youtube.com/watch?v=t3iq1ZyH44A)
 
-[audio deep dive](https://pinjoa.github.io/audio/Deep-dive-into-the-layers-of-Braga.mp3) (created using NotebookLM from source documentation[1](#ref1)[2](#ref2)[3](#ref3))
+[audio deep dive](https://pinjoa.github.io/commons/Deep-dive-into-the-layers-of-Braga.mp3) (created using NotebookLM from source documentation[1](#ref1)[2](#ref2)[3](#ref3))
 
 **Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_[1](#ref1)**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_[1](#ref1)[2](#ref2). Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements[1](#ref1).
 
