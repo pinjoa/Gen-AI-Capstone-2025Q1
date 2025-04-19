@@ -13,7 +13,10 @@ Braga, one of Portugal’s oldest cities, is a treasure trove of history, cultur
 ### **Explore the Resources**
 
 - 📄 **[Full Article on Blogspot](https://pinjoa.blogspot.com/2025/04/bridging-ai-and-history-exploring.html)**
-- 🎧 **[Deep-Dive Podcast](https://pinjoa.github.io/commons/Deep-dive-into-the-layers-of-Braga.mp3)** _(Generated using NotebookLM and curated sources)_
+- 🎥 **[video version: deep dive into the layers of Braga](https://youtu.be/K9aUfDztYyE)**
+- 🎧 **[audio version: deep dive into the layers of Braga](https://pinjoa.github.io/commons/Deep-dive-into-the-layers-of-Braga.mp3)**
+
+(_deep dive was created using NotebookLM from source documentation(1, 2, 3)_)
 
 ### **Technical Showcase**
 
@@ -28,10 +31,6 @@ _Goal_: Highlight how AI can augment our understanding of cultural heritage whil
 ## Braga, a Portuguese city with 2000 years of history
 
 _**NOTE**: Almost all the content in this document was created using generative AI resources available from Google. The overall project results from my curation of all the content produced using 3 documents provided with this project(1, 2, 3), identified and referenced at the bottom of this page._
-
-[video version: deep dive into the layers of Braga](https://youtu.be/K9aUfDztYyE)  
-[audio version: deep dive into the layers of Braga](https://pinjoa.github.io/commons/Deep-dive-into-the-layers-of-Braga.mp3)  
-(deep dive was created using NotebookLM from source documentation(1, 2, 3))
 
 [![Watch the video](https://pinjoa.github.io/commons/last-image-video.png)](https://www.youtube.com/watch?v=t3iq1ZyH44A)  
 **Braga is a city with a rich history, tracing its origins back to the Roman period as _Bracara Augusta_(1)**. The "Braga's Roman Guidebook" highlights its foundation under Emperor Augustus, marking it as an important ancient _civitas_(1, 2). Evidence of this Roman past is still visible in the city today through archaeological remains and identified urban planning elements(1).
